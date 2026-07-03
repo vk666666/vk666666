@@ -20,7 +20,7 @@ Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineer
 
 <br />
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/HCI-111827?style=for-the-badge&logo=semanticweb&logoColor=white" alt="HCI" />
   <img src="https://img.shields.io/badge/Human--AI%20Interaction-0F766E?style=for-the-badge" alt="Human-AI Interaction" />
