@@ -40,17 +40,6 @@
 
 ---
 
-## Current Focus
-
-```text
-Research        Human-AI interaction, AI-generated UI, cognitive evaluation
-Engineering     Frontend systems, research tools, data pipelines
-Design          Clear interfaces, usable workflows, visual explanation
-Writing         Papers, experiments, and project documentation
-```
-
----
-
 ## Connect
 
 <div align="center">
