@@ -31,7 +31,7 @@
 
 - 🔭 Currently working on: AI-generated UI evaluation, human review behavior, and interactive research tools
 - 🌱 Currently learning: LLM product design, HCI experiment design, and full-stack engineering
-- 💬 Ask me about: HCI, UI/UX prototyping, data visualization, Python, JavaScript, and research workflows
+- 💬 Ask me about: HCI, UI/UX prototyping, data visualization, Python, Java, and research workflows
 - 🎯 Goal: create tools that make complex ideas easier to understand and use
 - ⚡ Fun fact: I like turning messy ideas into clean interfaces
 
