@@ -1,6 +1,6 @@
 ## About Me
 
-你好，我是 **Vicky**。我关注 **Human-AI Interaction、智能用户界面、认知实验、前端工程与数据分析**。
+Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineering**。
 
 - 🔭 Currently working on: AI-generated UI evaluation, human review behavior, and interactive research tools
 - 🌱 Currently learning: LLM product design, HCI experiment design, and full-stack engineering
