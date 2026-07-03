@@ -12,7 +12,7 @@ Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineer
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,next,vue,nodejs,html,css,tailwind,figma,git,github,vscode&perline=7" alt="tech stack" />
 
