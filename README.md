@@ -32,16 +32,6 @@
 ---
 
 ## GitHub Snapshot
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vk666666&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk666666&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-
-</div>
-
-<br />
-
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk666666&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
