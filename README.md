@@ -31,37 +31,6 @@
 
 ---
 
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI UI Review</h3>
-      <p align="center">
-        A research workflow for studying how humans detect and evaluate errors in AI-generated interfaces.
-      </p>
-      <p align="center">
-        <a href="https://github.com/vk666666">
-          <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github" alt="view project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Research Toolkit</h3>
-      <p align="center">
-        Tools for experiment management, data processing, visualization, and reproducible analysis.
-      </p>
-      <p align="center">
-        <a href="https://github.com/vk666666">
-          <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github" alt="view project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Snapshot
 
 <div align="center">
@@ -96,7 +65,7 @@ Writing         Papers, experiments, and project documentation
 
 <div align="center">
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:xhwv1cky@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/vk666666">
