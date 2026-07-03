@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hi there, I'm Vicky!
+    Hi, I'm Vicky!
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="34" alt="Mona whisper" />
   </h1>
 
