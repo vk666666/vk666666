@@ -1,3 +1,32 @@
+<div align="center">
+
+  <h1>
+    Hi there, I'm Vicky!
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="34" alt="Mona whisper" />
+  </h1>
+
+  <p>
+    <strong>Human-AI Interaction · Creative Coding · Research & Engineering</strong>
+  </p>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Building+thoughtful+interfaces;Exploring+AI-generated+UI;Turning+research+ideas+into+working+tools" alt="typing intro" />
+  </p>
+
+  <p>
+    <a href="https://github.com/vk666666">
+      <img src="https://komarev.com/ghpvc/?username=vk666666&style=for-the-badge&color=06B6D4" alt="profile views" />
+    </a>
+    <a href="https://github.com/vk666666?tab=followers">
+      <img src="https://img.shields.io/github/followers/vk666666?style=for-the-badge&logo=github&color=22C55E" alt="followers" />
+    </a>
+    <a href="https://github.com/vk666666?tab=repositories">
+      <img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge&logo=github" alt="collaboration" />
+    </a>
+  </p>
+
+</div>
+
 ## About Me
 
 Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineering**。
@@ -31,14 +60,6 @@ Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineer
 
 ---
 
-## GitHub Snapshot
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk666666&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-
-</div>
-
----
 
 ## Connect
 
