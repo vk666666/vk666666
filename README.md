@@ -42,7 +42,7 @@ Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineer
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
   <a href="mailto:xhwv1cky@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
@@ -54,9 +54,3 @@ Hello，I‘m **Vicky**. I focus on **Human-AI Interaction、full-stack engineer
 </div>
 
 <br />
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,45:06B6D4,100:7C3AED&height=120&section=footer" alt="footer" />
-
-</div>
