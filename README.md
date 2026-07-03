@@ -1,28 +1,6 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:06B6D4,100:22C55E&height=210&section=header&text=Hi,%20I'm%20vk666666&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Human-AI%20Interaction%20%7C%20Creative%20Coding%20%7C%20Research%20%26%20Engineering&descAlignY=58&descSize=16" alt="header" />
-
-  <p>
-    <a href="https://github.com/vk666666">
-      <img src="https://komarev.com/ghpvc/?username=vk666666&style=for-the-badge&color=06B6D4" alt="profile views" />
-    </a>
-    <a href="https://github.com/vk666666?tab=followers">
-      <img src="https://img.shields.io/github/followers/vk666666?style=for-the-badge&logo=github&color=22C55E" alt="followers" />
-    </a>
-    <a href="https://github.com/vk666666?tab=repositories">
-      <img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge&logo=github" alt="collaboration" />
-    </a>
-  </p>
-
-  <h3>Building thoughtful interfaces between humans, data, and AI.</h3>
-
-</div>
-
----
-
 ## About Me
 
-你好，我是 **vk666666**。我关注 **Human-AI Interaction、智能用户界面、认知实验、前端工程与数据分析**，喜欢把研究问题做成可运行、可观察、可迭代的系统。
+你好，我是 **Vicky**。我关注 **Human-AI Interaction、智能用户界面、认知实验、前端工程与数据分析**。
 
 - 🔭 Currently working on: AI-generated UI evaluation, human review behavior, and interactive research tools
 - 🌱 Currently learning: LLM product design, HCI experiment design, and full-stack engineering
